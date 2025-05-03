@@ -1,3 +1,7 @@
+## 📷 Dashboard Snapshot
+
+![Coffee Sales Dashboard](./dashboard.png)
+
 **Project Overview**
 
 This project explores and analyzes coffee product sales over time using interactive data visualizations built in Power BI. The aim is to identify key sales trends, highlight top-performing products, detect low-sales periods, and derive actionable business insights.
