@@ -8,34 +8,23 @@ This project explores and analyzes coffee product sales over time using interact
 
 **Key Insights**
 * **Coffee products recorded the highest total sales**, indicating strong and consistent demand.
-* **April showed the lowest sales**, suggesting a potential seasonal dip or external influence.
+* **January showed the lowest sales**, suggesting a potential seasonal dip or external influence.
 * Monthly sales trends varied, highlighting the importance of time-based strategies.
 * Several underperforming products were identified for strategic review.
 
 Tools & Technologies
 
-* **Power BI** – for dashboard creation and visualization
-* **Microsoft Excel** – for data cleaning and preparation
-* **DAX (Data Analysis Expressions)** – for building custom measures
-* **GitHub** – for project versioning and sharing
+* **Power BI* – for dashboard creation and visualization
+* **Microsoft Excel* – for data cleaning and preparation
+* **DAX (Data Analysis Expressions – for building custom measures
+* **GitHub – for project versioning and sharing
 
-Dashboard Features
+**Dashboard Features**
 
 * Interactive filters by month and product
 * Bar charts for monthly sales comparisons
 * Product category breakdowns
 * KPIs showing total sales, average monthly sales, and product rankings
-
-Folder Structure
-coffee-sales-analysis/
-│
-├── data/
-│   └── coffee_sales_data.xlsx      # Sample sales data
-├── visuals/
-│   └── dashboard_screenshots/      # Images of Power BI dashboard
-├── README.md                       # Project documentation
-└── coffee_sales_dashboard.pbix     # Power BI dashboard file
-```
 
 What I Learned
 
@@ -49,6 +38,3 @@ To explore the dashboard:
 1. Clone this repository.
 2. Open `coffee_sales_dashboard.pbix` using Power BI Desktop.
 
-## 📫 Contact
-
-If you have any questions or suggestions, feel free to connect with me on [LinkedIn](https://linkedin.com) or email me at *[your\_email@example.com](mailto:your_email@example.com)*.
