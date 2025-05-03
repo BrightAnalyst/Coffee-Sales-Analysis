@@ -1,5 +1,6 @@
 **Project Overview**
-This project explores and analyzes coffee product sales over time using interactive data visualizations built in **Power BI**. The aim is to identify key sales trends, highlight top-performing products, detect low-sales periods, and derive actionable business insights.
+This project explores and analyzes coffee product sales over time using interactive data visualizations built in Power BI. The aim is to identify key sales trends, highlight top-performing products, detect low-sales periods, and derive actionable business insights.
+
 **Objectives**
 * Analyze sales performance across different product categories and months
 * Identify the top-selling products
