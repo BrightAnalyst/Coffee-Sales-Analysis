@@ -1,3 +1,4 @@
+
 **Project Overview**
 
 This project explores and analyzes coffee product sales over time using interactive data visualizations built in Power BI. The aim is to identify key sales trends, highlight top-performing products, detect low-sales periods, and derive actionable business insights.
@@ -52,3 +53,5 @@ Based on the insights derived from the coffee sales analysis, the following reco
    **Conclusion**
    
 This dashboard project demonstrates how historical sales data can be transformed into strategic business insight using Power BI. It enables business owners, analysts, and marketers to understand sales drivers, plan inventory, and tailor promotions around trends.
+
+![Screenshot 2025-04-24 195146](https://github.com/user-attachments/assets/ae613ff2-51de-49b1-8193-b1ad6a7ab928)
