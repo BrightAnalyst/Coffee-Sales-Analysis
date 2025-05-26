@@ -55,3 +55,7 @@ Based on the insights derived from the coffee sales analysis, the following reco
 This dashboard project demonstrates how historical sales data can be transformed into strategic business insight using Power BI. It enables business owners, analysts, and marketers to understand sales drivers, plan inventory, and tailor promotions around trends.
 
 ![Screenshot 2025-04-24 195146](https://github.com/user-attachments/assets/ae613ff2-51de-49b1-8193-b1ad6a7ab928)
+![coffee dashboard 2](https://github.com/user-attachments/assets/941f3732-0f2c-45c0-b923-5214b308f61e)
+![coffee dashboard 3](https://github.com/user-attachments/assets/db2dbf45-f243-40f5-9b01-817da67fd066)
+
+
